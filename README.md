@@ -8,7 +8,8 @@ Unordered List
 3. kalinga
 4. ahamd
 
-   ![Linkedin.logo](https://www.linkedin.com)
+  ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 
    |-------|----------|
    
