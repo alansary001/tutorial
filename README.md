@@ -1,7 +1,7 @@
 # tutorial
-##Heading
+### Heading
 
-#List
+List
 Unordered List
 1. kano
 2. kaduna
@@ -9,5 +9,6 @@ Unordered List
 4. ahamd
 
    ![Linkedin.logo](https://www.linkedin.com)
+
    |-------|----------|
    
